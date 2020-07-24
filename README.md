@@ -55,6 +55,8 @@ Para utilização da API, foi desenvolvido uma camada de apresentação que pode
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
 - **[NodeJS](https://nodejs.org/en/)**
+- **[Cors](https://www.npmjs.com/package/cors)**
+- **[Nodemon](https://www.npmjs.com/package/nodemon)**
 - **[Json](https://www.w3schools.com/js/js_json_intro.asp)**
 - **[Express](http://expressjs.com/)**
 - **[Insomnia](https://insomnia.rest/download/)**
